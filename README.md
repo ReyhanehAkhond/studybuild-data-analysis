@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Motor Insurance Claims & Portfolio Risk Analysis (Python + Tableau)
 
 ## Overview
@@ -98,3 +99,6 @@ jupyter nbconvert --to notebook --execute --inplace notebooks/insurance_analysis
 ```[cite: 14]
 
 You can open `tableau/insurance_claims_dashboard.twbx` directly in **Tableau Desktop** or **Tableau Public** to explore the interactive filters and parameters[cite: 14].
+=======
+# studybuild-data-analysis
+>>>>>>> 017e8b111f33a50f8d9f3b65f0c1b977736e8cce
